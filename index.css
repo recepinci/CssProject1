@@ -1,0 +1,29 @@
+/* Anasayfa Css */
+h1 {
+    color: red;
+    font-size: 50px;
+    font-family: sans-serif;
+}
+
+p {
+    font-size: 23px;
+}
+ul {
+    list-style-position: inside;
+    font-size: 30px;
+}
+/* Anasayfa End Css */
+
+/* Hakkımızda Css */
+
+.vizyon {
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(7, 51, 51);
+    
+}
+
+#text {
+        font-size: 28px;
+}
+/* Hakkımızda End Css */
